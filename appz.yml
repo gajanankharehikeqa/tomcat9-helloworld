@@ -26,7 +26,7 @@ monitor:
 properties:
   MOD_CLUSTER: modcluster-1-3:6666
   title: Tomcat HelloWorld - Oracle cloud Testing
-  head_color : Blue
+  head_color : Red
   threads: 5
   delay: 15
   next: 15
