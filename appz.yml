@@ -32,6 +32,6 @@ properties:
   next: 15
   download: true
   random : true
-  nano : 73
+  nano : 75
   MY_PASSWORD: 
     vault: MY_PASSWORD
